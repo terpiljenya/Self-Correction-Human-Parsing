@@ -1,5 +1,11 @@
 **/__pycache__
-
 data/
+my_looks/
 log/
 pretrain_model/
+checkpoints/
+inputs/
+outputs/
+test_data/
+*.pth
+**/.ipynb_checkpoints
